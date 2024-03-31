@@ -5,7 +5,9 @@ module.exports = {
     extend: {},
     fontFamily: {
       sans: '"PT Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif',
-      serif: '"PT Serif", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", "Georgia", serif',
+      serif:
+        '"PT Serif", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", "Georgia", serif',
+      mono: 'monospace',
     },
   },
   plugins: [require('@tailwindcss/forms')],
