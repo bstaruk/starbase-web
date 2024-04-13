@@ -1,6 +1,6 @@
 # starbase
 
-This project was bootstrapped by [Starbase v4](https://github.com/bstaruk/starbase). The details below are unbranded so you can quickly swap out the title & intro.
+This project was bootstrapped by [Starbase v4](https://github.com/bstaruk/starbase).
 
 ---
 
