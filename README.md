@@ -1,4 +1,4 @@
-# starbase
+# starbase-web
 
 This project was bootstrapped by [Starbase v4](https://github.com/bstaruk/starbase).
 
