@@ -2,7 +2,6 @@
 @import './styles/tailwind.css';
 
 /* Ordered Imports */
-@import './styles/fonts.css';
 @import './styles/root.css';
 
 /* Unordered Imports */
